@@ -1,5 +1,4 @@
-# Source code for daksh.eu.org
-
+# Source code for deepanshpandey.ml
 ## Screenshots
 Home             |  Gallery
 :-------------------------:|:-------------------------:
