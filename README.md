@@ -2,8 +2,8 @@
 ## Screenshots
 Home             |  Gallery
 :-------------------------:|:-------------------------:
-![Home](https://i.imgur.com/SdFsbqj.png)  |  ![Gallery](https://i.imgur.com/U4B5AgL.png)
+![Home](https://i.imgur.com/GlfLpmX.jpg)  |  ![Gallery](https://i.imgur.com/vEjlnPt.jpg)
 
 About             |  Contact
 :-------------------------:|:-------------------------:
-![About](https://i.imgur.com/4L1YGBo.png)  |  ![Contact](https://i.imgur.com/RN5KLXB.png)
+![About](https://i.imgur.com/zUfjQaV.jpg)  |  ![Contact](https://i.imgur.com/NnaDot2.jpg)
