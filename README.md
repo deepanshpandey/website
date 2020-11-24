@@ -1,4 +1,4 @@
-# Source code for deepanshpandey.ml
+# Source code form Daksh P. Jain
 ## Screenshots
 Home             |  Gallery
 :-------------------------:|:-------------------------:
